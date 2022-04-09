@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-27 12:31+0200\n"
-"PO-Revision-Date: 2022-04-05 10:41+0200\n"
+"POT-Creation-Date: 2021-12-22 15:03+0100\n"
+"PO-Revision-Date: 2021-12-25 00:04+0100\n"
 "Last-Translator: Andrej Tobola <andrej.tobola@gmail.com>\n"
 "Language-Team: \n"
 "Language: sk\n"
@@ -1023,8 +1023,8 @@ msgstr "Arménsko"
 msgid "Artist"
 msgstr "Umelec"
 
-msgid "Arts/Culture (without music)"
-msgstr "Umenie/kultúra (bez hudby)"
+msgid "Arts/Culture"
+msgstr "Umenie/kultúra"
 
 msgid "Aruba"
 msgstr "Aruba"
@@ -1193,9 +1193,6 @@ msgstr "Dostupné premenné formátu"
 
 msgid "Available locales are:"
 msgstr "Dostupné jazyky:"
-
-msgid "Axas E4HD Ultra"
-msgstr "Axas E4HD Ultra"
 
 msgid "Azerbaijan"
 msgstr "Azerbajdžan"
@@ -1453,10 +1450,6 @@ msgstr "Kábel"
 msgid "Cable Scan"
 msgstr "Prehľadať káblový rozvod"
 
-#, python-format
-msgid "Cable scan executable utility not found '%s'!"
-msgstr "Spustiteľný nástroj na vyhľadávanie káblovej TV sa nenašiel '%s'!"
-
 msgid "Cabo Verde"
 msgstr "Cabo Verde"
 
@@ -1690,8 +1683,8 @@ msgstr ""
 "Kontrolujem tuner %s\n"
 "DiSEqC port %s pre %s"
 
-msgid "Children/Youth/Education/Science"
-msgstr "Deti/Mládež/Vzdelávanie/Veda"
+msgid "Children/Youth"
+msgstr "Deti/mládež"
 
 msgid "Chile"
 msgstr "Čile"
@@ -2949,9 +2942,6 @@ msgstr "Nové doplnky na stiahnutie"
 msgid "Downloadable plugins"
 msgstr "Doplnky na stiahnutie"
 
-msgid "Downloaded Images"
-msgstr "Stiahnutý softvér"
-
 msgid "Downloading"
 msgstr "Sťahovanie"
 
@@ -2963,9 +2953,6 @@ msgstr "Pokúšam sa stiahnuť nový zoznam balíčkov. Prosím čakajte..."
 
 msgid "Downloading plugin information. Please wait..."
 msgstr "Sťahujem informácie o doplnkoch. Prosím čakajte..."
-
-msgid "Drama and Films"
-msgstr "Dráma a filmy"
 
 msgid "Drop unconfigured satellites"
 msgstr "Zrusiť nenakonfigurované satelity"
@@ -3008,8 +2995,8 @@ msgid "ERROR - failed to scan (%s)!"
 msgstr "CHYBA - zlyhalo vyhľadávanie (%s)!"
 
 #, python-format
-msgid "ERROR downloading file /etc/enigma2/%s"
-msgstr "CHYBA sťahovania súboru /etc/enigma2/%s"
+msgid "ERROR downloading file %s"
+msgstr "CHYBA sťahovania súboru %s"
 
 msgid "East"
 msgstr "Východne"
@@ -3058,6 +3045,9 @@ msgstr "Upraviť titul"
 
 msgid "Edit update source url"
 msgstr "Upraviť URL zdroja aktualizácie"
+
+msgid "Education/Science/..."
+msgstr "Vzdelávanie/veda /..."
 
 msgid "Egypt"
 msgstr "Egypt"
@@ -3298,6 +3288,10 @@ msgstr "Eritrea"
 
 msgid "Error"
 msgstr "Chyba"
+
+#, python-format
+msgid "Error %s"
+msgstr "Chyba %s"
 
 msgid "Error code"
 msgstr "Kód chyby"
@@ -3809,9 +3803,6 @@ msgstr "Priehľadné"
 msgid "Full view resolution"
 msgstr "Celoobrazovkové rozlíšenie"
 
-msgid "Fullbackup Images"
-msgstr "Úplná záloha softvéru"
-
 msgid "Function of OK button"
 msgstr "Funkcia tlačidla OK"
 
@@ -4011,8 +4002,8 @@ msgstr "Zoznam HD"
 msgid "HD2400"
 msgstr "HD2400"
 
-msgid "HD60/HD66SE/Multibox/Multibox SE"
-msgstr "HD60/HD66SE/Multibox/Multibox SE"
+msgid "HD60/Multibox/Multibox SE"
+msgstr "HD60/Multibox/Multibox SE"
 
 msgid "HDMI Colordepth"
 msgstr "Farebná hĺbka HDMI"
@@ -4684,6 +4675,9 @@ msgstr "Doľava"
 msgid "Left from servicename"
 msgstr "Vľavo od názvu stanice"
 
+msgid "Leisure hobbies"
+msgstr "Voľný čas/koníčky"
+
 msgid "Lesotho"
 msgstr "Lesotho"
 
@@ -5156,6 +5150,9 @@ msgstr "Umiestenie filmu"
 msgid "Movie selection"
 msgstr "Výber filmu"
 
+msgid "Movie/Drama"
+msgstr "Film/dráma"
+
 msgid "Movielist menu"
 msgstr "Menu zoznamu filmov"
 
@@ -5332,8 +5329,8 @@ msgstr "Nová Kaledónia"
 msgid "New Zealand"
 msgstr "Nový Zéland"
 
-msgid "News/Current Affairs/Social"
-msgstr "Správy/Aktuálne udalosti/Sociálne"
+msgid "News Current Affairs"
+msgstr "Aktuality"
 
 msgctxt "button label, 'next screen'"
 msgid "Next"
@@ -7675,9 +7672,6 @@ msgstr "Nastaviť ako stanicu po spustení"
 msgid "Set blocktimes by weekday"
 msgstr "Nastaviť časy blokovania na víkend"
 
-msgid "Set cursor on service from channel history"
-msgstr "Nastavte kurzor na službu z histórie stanice"
-
 msgid "Set default"
 msgstr "Nastaviť predvolené"
 
@@ -7800,6 +7794,9 @@ msgstr "Zobrazovať EPG pre aktuálnú stanicu..."
 
 msgid "Show EPG..."
 msgstr "Zobraziť EPG..."
+
+msgid "Show Games show"
+msgstr "Zobraziť prehliadku hier"
 
 msgid "Show InfoBar"
 msgstr "Zobraziť informačný panel"
@@ -8029,9 +8026,6 @@ msgstr "Zobraziť varovanie pred použitím \"Ignorovať konflikt\""
 msgid "Show warning when timeshift is stopped"
 msgstr "Zobraziť varovanie, keď sa zastaví časový posun"
 
-msgid "Show/Game Show/Leisure hobbies"
-msgstr "Show/Game Show/Voľnočasové záľuby"
-
 msgid "Show/hide window"
 msgstr "Zobraziť/skryť okno"
 
@@ -8191,6 +8185,9 @@ msgstr "PIN Smart karty"
 
 msgid "Smooth"
 msgstr "Hladký"
+
+msgid "Social/Political/Economics"
+msgstr "Sociálne/Politika/Ekonómia"
 
 msgid "SocketMMI"
 msgstr "SocketMMI"
@@ -9505,7 +9502,7 @@ msgid "Tune and focus"
 msgstr "Ladenie a fokus"
 
 msgid "Tune failed!"
-msgstr "Ladenie zlyhalo alebo slabý signál!"
+msgstr "Ladenie zlyhalo!"
 
 msgid "Tuner"
 msgstr "Tuner"
@@ -10376,8 +10373,8 @@ msgstr "Ak povolené, budú teletextové titulky zobrazované na svojej pôvodne
 msgid "When enabled, the VCR scart option will be shown on the main menu"
 msgstr "Ak povolené, v hlavnom menu sa zobrazí položka VCR scart"
 
-msgid "When enabled, the channel selection list will be hidden while listening to a radio channel. When disabled, the option 'Auto play last service in radio mode' is available."
-msgstr "Keď je táto možnosť povolená, pri počúvaní rozhlasovej stanice bude zoznam staníc skrytý. Keď je vypnutá, je k dispozícii možnosť „Automatické prehrávanie poslednej služby v režime rádia“."
+msgid "When enabled, the channel selection list will be hidden while listening to a radio channel"
+msgstr "Ak povolené, zoznam výberu stanice bude počas počúvania rozhlasovej staníc skrytý"
 
 msgid "When enabled, the infobar will be displayed when a new event starts."
 msgstr "Ak povolené, pri začatí novej relácie sa zobrazí informačný panel."
@@ -10405,9 +10402,6 @@ msgstr "Ak povolené, prijímač zvolí AC3 stopu (ak je dostupná)."
 
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr "Ak povolené, prijímač zvolí AC3+ stopu (ak je dostupná)."
-
-msgid "When enabled, then when changing bouquets, set the cursor on the service from the channel history in the channel selection list."
-msgstr "Keď je táto možnosť povolená, pri zmene prehľadu staníc nastavte kurzor na službu z histórie kanálov v zozname na výber kanálov."
 
 msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
 msgstr "Ak povolené, toto nastavenie má väčšiu váhu ako \"Preferovaný tuner pre nahrávky\"."
@@ -10806,8 +10800,8 @@ msgstr "Program %s prepnutý časovačom!"
 msgid "Zgemma H.S/H.2S/H.2H/H5/H7(old model)"
 msgstr "Zgemma H.S/H.2S/H.2H/H5/H7(starý model)"
 
-msgid "Zgemma H9(old model)/I55Plus/H8"
-msgstr "Zgemma H9(old model)/I55Plus/H8"
+msgid "Zgemma H9(old model)/I55Plus"
+msgstr "Zgemma H9(starý model)/I55Plus"
 
 msgid "Zgemma Star S/2S/H1/H2"
 msgstr "Zgemma Star S/2S/H1/H2"
@@ -10854,8 +10848,8 @@ msgstr "iba aktuálny čas"
 msgid "additional cable of rotor"
 msgstr "dodatočný kábel alebo rotor"
 
-msgid "adult movie"
-msgstr "pre dospelých"
+msgid "adult movie/drama"
+msgstr "film pre dospelých/dráma"
 
 msgid "advanced"
 msgstr "pokročilé"
@@ -10945,6 +10939,9 @@ msgstr "lepšie"
 msgid "black"
 msgstr "čierna"
 
+msgid "black & white"
+msgstr "čiernobiele"
+
 msgid "blacklist"
 msgstr "čierna listina"
 
@@ -10975,8 +10972,8 @@ msgstr "uprostred, viac riadkov"
 msgid "chapters"
 msgstr "kapitoly"
 
-msgid "childrens's youth program (general)"
-msgstr "detský mládežnícky program (všeobecný)"
+msgid "childrens's/youth program (general)"
+msgstr "pre deti a mládež (všeobecne)"
 
 msgid "circular left"
 msgstr "kruhová ľavá"
@@ -10989,6 +10986,9 @@ msgstr "orezávanie / rámčeky letterboxu"
 
 msgid "comedy"
 msgstr "komédia"
+
+msgid "config menu"
+msgstr "menu nastavení"
 
 msgid "confirmed"
 msgstr "potvrdené"
@@ -11053,8 +11053,8 @@ msgstr "východne"
 msgid "economics/social advisory"
 msgstr "ekonomika/sociálne poradenstvo"
 
-msgid "educational/science/factual topics (general)"
-msgstr "vzdelávacie/vedecké/faktické témy (všeobecné)"
+msgid "education/science/factual topics (general)"
+msgstr "vzdelávanie/veda/vecné témy (všeobecne)"
 
 msgid "embedded"
 msgstr "vsadený"
@@ -11143,8 +11143,8 @@ msgstr "film/kino"
 msgid "fine arts"
 msgstr "výtvarné umenie"
 
-msgid "fitness and health"
-msgstr "kondícia a zdravie"
+msgid "fitness & health"
+msgstr "fitnes a zdravie"
 
 msgid "flat alphabetic"
 msgstr "abecedne"
@@ -11181,6 +11181,9 @@ msgstr "vzdelávanie dospelých"
 
 msgid "game show/quiz/contest"
 msgstr "herná šou/kvíz/súťaž"
+
+msgid "gardening"
+msgstr "záhradníctvo"
 
 msgid "go to deep standby"
 msgstr "prejsť do vypnutia"
@@ -11284,8 +11287,8 @@ msgstr "počúvanie do hotplug udalostí"
 msgid "literature"
 msgstr "literatúra"
 
-msgid "local sports"
-msgstr "miestne športy"
+msgid "live broadcast"
+msgstr "priamy prenos"
 
 msgid "locked"
 msgstr "zachytený"
@@ -11332,8 +11335,8 @@ msgstr "nahor na prvú položku"
 msgid "move up to previous entry"
 msgstr "nahor na predchádzajúcu položku"
 
-msgid "movie (general)"
-msgstr "film (všeobecne)"
+msgid "movie/drama (general)"
+msgstr "film/dráma (všeobecne)"
 
 msgid "multi"
 msgstr "viac"
@@ -11461,6 +11464,9 @@ msgstr "Otvoriť nastavenia DNS"
 msgid "original"
 msgstr "pôvodná"
 
+msgid "original language"
+msgstr "pôvodný jazyk"
+
 msgid "pass"
 msgstr "prechod"
 
@@ -11481,9 +11487,6 @@ msgstr "populárna kultúra/tradičné umenie"
 
 msgid "pre-school children's program"
 msgstr "program pre predškolské deti"
-
-msgid "preserve bookmarks in cuts"
-msgstr "zachovať záložky v upravených"
 
 msgid "receiver software because updates are available."
 msgstr "softvér prijímača, nakoľko sú dostupné aktualizácie."
@@ -11508,9 +11511,6 @@ msgstr "odstrániť za touto pozíciou"
 
 msgid "remove before this position"
 msgstr "odstrániť pred touto pozíciou"
-
-msgid "remove bookmarks in cuts"
-msgstr "odstrániť záložky v upravených"
 
 msgid "remove this mark"
 msgstr "odstrániť túto značku"
@@ -11563,8 +11563,8 @@ msgstr "zvoliť položku menu"
 msgid "serious music/classic music"
 msgstr "vážna hudba/klasická hudba"
 
-msgid "serious/classical/religious/historical drama"
-msgstr "vážna/klasická/náboženská/historická dráma"
+msgid "serious/classical/religious/historical movie/drama"
+msgstr "vážny/klasický/náboženský/historický film/dráma"
 
 msgid "service off-air"
 msgstr "Služby poskytovateľa"
@@ -11642,14 +11642,14 @@ msgstr "slot%s - %s, so zálohou"
 msgid "slot%s - %s, without backup"
 msgstr "slot%s - %s, bez zálohy"
 
-msgid "soap/melodrama/folkloric"
+msgid "soap/melodram/folkloric"
 msgstr "melodráma/folklór"
 
 msgid "social/political issues/economics (general)"
 msgstr "sociálne/politické problémy/ekonómia (všeobecne)"
 
-msgid "social/spiritual sciences"
-msgstr "sociálne/duchovné vedy"
+msgid "social/spiritual science"
+msgstr "sociálne/duchovnej vedy"
 
 msgid "space"
 msgstr "medzera"
@@ -11699,11 +11699,11 @@ msgstr "prepnúť na nasledujúci jazyk podtitulkov"
 msgid "talk show"
 msgstr "talkšou"
 
-msgid "team sports/excluding football"
-msgstr "kolektívne športy/okrem futbalu"
+msgid "team sports"
+msgstr "kolektívne športy"
 
-msgid "technology/natural sciences"
-msgstr "technológie/prírodné vedy"
+msgid "technology/natural science"
+msgstr "technológia/prírodné vedy"
 
 msgid "template file"
 msgstr "šablóna"
@@ -11749,6 +11749,9 @@ msgstr "neznáma chyba"
 
 msgid "unknown service"
 msgstr "neznáma stanica"
+
+msgid "unpublished"
+msgstr "nepublikované"
 
 msgid "untestable"
 msgstr "neskúšateľné"
